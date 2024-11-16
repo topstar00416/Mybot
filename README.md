@@ -1,2 +1,1 @@
-# Mybot
-bot(win)
+# GithubActionTest
